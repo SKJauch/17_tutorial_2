@@ -78,3 +78,7 @@ Back-references refer to previously search for and/or found groups so that we do
 
 Look-ahead and look-behind are typically called "look-around".  These assertions do not look for matching characters, but simply look to see if the search is possible.  It does not return a string of searched characters but returns a "yes" or "no" response.  
 
+## Author
+
+Stephanie Jauch is a full stack developer with a passion for problem solving and making a difference. To learn more visit [https://github.com/SKJauch]
+
