@@ -62,3 +62,6 @@ Grouping allows a search for multiple patterns.  Grouping will use flags to capt
 
 Bracket expressions add additional simplification by telling the regex to look for the character classes that are in the brackets.
 
+### Greedy and Lazy Match
+
+A greedy match happens when a quantifier looks for the longest possible match or a match with as many successful matches as possible.  A lazy match is the exact opposite, finding the smallest amount of possible matches.
