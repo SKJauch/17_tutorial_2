@@ -54,3 +54,6 @@ Character classes simplifies code by making a smaller range of characters repres
 
 Flags can be used in conjuction with other flags or independently.  They allow for additional functionality like searching globaly or case sensitive searches.
 
+### Grouping and Capturing
+
+Grouping allows a search for multiple patterns.  Grouping will use flags to capture the matched groups and then put them together in a different matched group.
