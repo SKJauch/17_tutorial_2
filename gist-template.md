@@ -73,3 +73,8 @@ Boundaries are parameters that are signaled by \b, \B, ^ or $.  It tells the reg
 ### Back-references
 
 Back-references refer to previously search for and/or found groups so that we do not have to keep searching for results that we already have when we are searching for multiple groups.
+
+### Look-ahead and Look-behind
+
+Look-ahead and look-behind are typically called "look-around".  These assertions do not look for matching characters, but simply look to see if the search is possible.  It does not return a string of searched characters but returns a "yes" or "no" response.  
+
