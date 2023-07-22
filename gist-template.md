@@ -57,3 +57,8 @@ Flags can be used in conjuction with other flags or independently.  They allow f
 ### Grouping and Capturing
 
 Grouping allows a search for multiple patterns.  Grouping will use flags to capture the matched groups and then put them together in a different matched group.
+
+### Bracket Expressions
+
+Bracket expressions add additional simplification by telling the regex to look for the character classes that are in the brackets.
+
