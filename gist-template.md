@@ -65,3 +65,7 @@ Bracket expressions add additional simplification by telling the regex to look f
 ### Greedy and Lazy Match
 
 A greedy match happens when a quantifier looks for the longest possible match or a match with as many successful matches as possible.  A lazy match is the exact opposite, finding the smallest amount of possible matches.
+
+### Boundaries
+
+Boundaries are parameters that are signaled by \b, \B, ^ or $.  It tells the regex to look for matches before or after or in between a match.  This can allow for partial or exact matches depending on how the assertion is written.   
