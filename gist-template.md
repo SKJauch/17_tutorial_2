@@ -38,3 +38,7 @@ function ValidateEmail(inputText)
 
 Search parameters are anchored by ^ or $ which tells the code to look for the characters after the ^ or before the $. 
 
+### Quantifiers
+
+A quantifier tells the code how many characters or symbols must be present to be a successful match.  For example, (+) means that the character matches at least once while (?) is expecting the character to match exactly zero times or one time.
+
