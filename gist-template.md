@@ -80,5 +80,5 @@ Look-ahead and look-behind are typically called "look-around".  These assertions
 
 ## Author
 
-Stephanie Jauch is a full stack developer with a passion for problem solving and making a difference. To learn more visit [https://github.com/SKJauch]
+Stephanie Jauch is a full stack developer with a passion for problem solving and making a difference. To learn more visit [GitHub](https://github.com/SKJauch)
 
