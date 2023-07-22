@@ -31,3 +31,10 @@ function ValidateEmail(inputText)
 - [Boundaries](#boundaries)
 - [Back-references](#back-references)
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+
+## Regex Components
+
+### Anchors
+
+Search parameters are anchored by ^ or $ which tells the code to look for the characters after the ^ or before the $. 
+
