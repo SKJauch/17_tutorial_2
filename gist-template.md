@@ -45,3 +45,8 @@ A quantifier tells the code how many characters or symbols must be present to be
 ### OR Operator
 
 An OR operator tells the code that it can look for more than one condition.  This could be helpful when considering international email addresses (.com in the US OR .uk in UK)
+
+### Character Classes
+
+Character classes simplifies code by making a smaller range of characters represent a larger range.  For example instead of typing out [ abcdefghijklmnopqrstuvwxyz ] we can simply use [ a-z ].  It can also distinguish between types of characters like numbers and symbols. 
+
