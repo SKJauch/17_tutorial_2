@@ -69,3 +69,7 @@ A greedy match happens when a quantifier looks for the longest possible match or
 ### Boundaries
 
 Boundaries are parameters that are signaled by \b, \B, ^ or $.  It tells the regex to look for matches before or after or in between a match.  This can allow for partial or exact matches depending on how the assertion is written.   
+
+### Back-references
+
+Back-references refer to previously search for and/or found groups so that we do not have to keep searching for results that we already have when we are searching for multiple groups.
