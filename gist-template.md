@@ -42,3 +42,6 @@ Search parameters are anchored by ^ or $ which tells the code to look for the ch
 
 A quantifier tells the code how many characters or symbols must be present to be a successful match.  For example, (+) means that the character matches at least once while (?) is expecting the character to match exactly zero times or one time.
 
+### OR Operator
+
+An OR operator tells the code that it can look for more than one condition.  This could be helpful when considering international email addresses (.com in the US OR .uk in UK)
