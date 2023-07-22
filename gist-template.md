@@ -50,3 +50,7 @@ An OR operator tells the code that it can look for more than one condition.  Thi
 
 Character classes simplifies code by making a smaller range of characters represent a larger range.  For example instead of typing out [ abcdefghijklmnopqrstuvwxyz ] we can simply use [ a-z ].  It can also distinguish between types of characters like numbers and symbols. 
 
+### Flags
+
+Flags can be used in conjuction with other flags or independently.  They allow for additional functionality like searching globaly or case sensitive searches.
+
